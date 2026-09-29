@@ -1,0 +1,15 @@
+.vercel
+.env*
+
+# Dependencies and generated files
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+
+# Local tooling and logs
+.playwright-cli/
+.DS_Store
+*.log
